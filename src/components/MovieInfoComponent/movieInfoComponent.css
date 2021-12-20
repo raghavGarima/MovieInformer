@@ -1,0 +1,36 @@
+.goBack {
+  color: greenyellow;
+  font-size: 3rem;
+}
+.goBack p {
+  margin-top: 3rem;
+}
+.goBack:hover {
+  color: red;
+}
+.col-1 {
+  width: 22rem;
+  margin: 2rem;
+}
+.topDiv {
+  height: 100vh;
+}
+.titleDiv {
+  font-size: 3rem;
+  color: yellow;
+}
+.tableDiv {
+  color: white;
+}
+.img {
+  background-color: black;
+}
+.detailCard {
+  width: 20rem;
+}
+.img-fluid {
+  width: 100%;
+}
+.containerDiv {
+  margin-top: 6rem;
+}
